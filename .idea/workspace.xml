@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c1f041f-d5b4-4a03-b944-1cb459aa6252" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm1/Baekjoon2587.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm1/baekjoon2675.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/Test51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/Test52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/Test53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm1/Beakjoon2587.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm1/Beakjoon2675.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm1/Programmers68644.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm1/Programmers68644.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <recent name="algorithm1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon2587">
+  <component name="RunManager" selected="Application.Test53">
     <configuration name="Baekjoon2587" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm1.Baekjoon2587" />
       <module name="algorithm-study.main" />
@@ -90,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers68644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm1.Programmers68644" />
+    <configuration name="Test51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.Test51" />
       <module name="algorithm-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm1.*" />
+          <option name="PATTERN" value="academy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm1.Test" />
+    <configuration name="Test52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.Test52" />
       <module name="algorithm-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm1.*" />
+          <option name="PATTERN" value="academy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm1.baekjoon2675" />
+    <configuration name="Test53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.Test53" />
       <module name="algorithm-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm1.*" />
+          <option name="PATTERN" value="academy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test53" />
+        <item itemvalue="Application.Test52" />
+        <item itemvalue="Application.Test51" />
         <item itemvalue="Application.Baekjoon2587" />
         <item itemvalue="Application.Programmers68644 (1)" />
-        <item itemvalue="Application.Programmers68644" />
-        <item itemvalue="Application.baekjoon2675" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673967461566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1674020668607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674020668607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
