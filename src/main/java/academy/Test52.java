@@ -1,7 +1,5 @@
 package academy;
 
-import java.util.Locale;
-
 public class Test52 {
     public static void main(String[] args) {
         String str = "IT ELITE";
